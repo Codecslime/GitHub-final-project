@@ -1,4 +1,4 @@
-# GitHub-final-project
+
 A calculator that calculates simple interest,annual rate of interest and time period in years.
 
 Input:
