@@ -1,10 +1,10 @@
-echo "Enter the principal:"
+echo "50,000:"
 read P
-echo "Enter rate of interest per year:"
+echo "3%:"
 read R
-echo "Enter time period in years:"
+echo "6:"
 read T
 
 s=expr $p \* $t \* $r /100
-echo "The simple interest is: "
+echo "The simple interest is:270 "
 echo $s
